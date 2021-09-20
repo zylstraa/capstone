@@ -1,4 +1,4 @@
-# Song Writing for Dummies: <h2>How to make a hit <h5>Full project visualizations here: (Warning, some profaniy)<a href='https://sites.google.com/view/azcapstone/home'>Alexa Zylstra's Capstone project</a> for Nashville Software School| Data Science Cohort 4</h5>
+# Song Writing for Dummies: <h2>How to make a hit <h5>Full project visualizations here: (Warning, some profanity)<a href='https://sites.google.com/view/azcapstone/home'>Alexa Zylstra's Capstone project</a> for Nashville Software School| Data Science Cohort 4</h5>
 
 
 
